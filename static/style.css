@@ -1,0 +1,12 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#container {
+    width: 970px;
+    padding: 15px;
+}
+#container *{
+    width: 30%;
+    margin: 10px auto;
+}
